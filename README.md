@@ -1,5 +1,8 @@
 revel-csrf
 ==========
+**VERY IMPORTANT: this project is not maintained anymore, look for alternatives or forks if you need**
+
+**IMPORTANT: consider switching to github.com/revel/modules**
 
 `revel-csrf` implements Cross-Site Request Forgery (CSRF) attacks
 prevention for the [Revel framework](https://github.com/revel/revel).
